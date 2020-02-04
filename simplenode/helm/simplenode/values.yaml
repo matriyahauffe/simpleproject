@@ -1,2 +1,2 @@
-image: docker.io/keptnexamples/simplenodeservice:5.0.1
+image: docker.io/keptnexamples/simplenodeservice:5.0.2
 replicaCount: 1
